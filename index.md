@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Arielle Dong's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,11 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+- The Physics building where the lectures are held is very nice
+- There are a lot of helpful resources provided
+- All the assignments and course rules are very straightforward and easy to understand
 
 **Bold** and _Italic_ and `Code` text
 
